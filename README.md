@@ -2,7 +2,7 @@ Excise Boring Bits (ebb)
 ========================
 
 This program is to help edit screencasts that have long periods where
-nothing is happening.  e.g. a command may take minutes seconds to run.
+nothing is happening.  e.g. a command may take minutes to run.
 
 It reads in an input video file and exports a series of PNGs, for each
 frame.  It skips frames where nothing has changed from the previous frame.
