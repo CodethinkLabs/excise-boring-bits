@@ -71,6 +71,14 @@ line.  These are:
 * `--quiet` Limit the output to warnings and errors
 
 
+Tips
+----
+
+* When creating your screencast, if using a terminal with a flashing cursor,
+  remove focus from the window when something that takes a long time is
+  happening, to prevent the flashing.
+
+
 TODO
 ----
 
