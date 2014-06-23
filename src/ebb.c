@@ -1,5 +1,5 @@
 /*
- * Copyright 2014 Codethink
+ * Copyright (c) 2014 Codethink Ltd. (http://www.codethink.co.uk)
  *
  * This file is part of ebb
  *
