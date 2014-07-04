@@ -8,6 +8,19 @@ It reads in an input video file and exports a series of PNGs, for each
 frame.  It skips frames where nothing has changed from the previous frame.
 
 
+Building ebb
+------------
+
+You will require the ffmpeg/libav libraries and libpng.  On a Debian-based
+system you can install them with:
+
+    $ sudo apt-get install libavformat-dev libavcodec-dev libavutil-dev libswscale-dev libpng-dev
+
+To build ebb, run the following command:
+
+    $ make
+
+
 Example usage
 -------------
 
